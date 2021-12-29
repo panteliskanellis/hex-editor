@@ -1,5 +1,5 @@
 import binascii
-f = open("Φυσική.docx", "rb") #άνοιγμα αρχείου διαβάζοντας τα byte του 
+f = open(".docx", "rb") #άνοιγμα αρχείου διαβάζοντας τα byte του 
 def printL(L):
     y = ''
     count = 0
